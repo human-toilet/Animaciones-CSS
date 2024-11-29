@@ -1,3 +1,4 @@
+//componente para manejar el footer
 export function Footer({ author, email }){
   return (
     <footer className="flex justify-center align-center mb-[20px]">

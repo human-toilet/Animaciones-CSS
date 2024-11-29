@@ -2,6 +2,7 @@
 import { Footer } from "./components/Footer"
 import { ImgList } from "./components/ImgList"
 
+//app
 export function App() {
   const imgSrc = 'src/assets/img/maxi.jpg'
   const imgList = Array.from({length: 10}, () => imgSrc)

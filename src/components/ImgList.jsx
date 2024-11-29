@@ -1,3 +1,4 @@
+//componente de la lista de fotos
 export function ImgList({ imgs }){
   return (
     <section className="columns-2 py-[16px] px-[56px]">
